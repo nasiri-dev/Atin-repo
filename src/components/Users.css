@@ -1,0 +1,25 @@
+th,td,tr{
+    width: 150px;
+    margin: 4em auto;
+    color: bisque;
+    border: 1px solid rgb(77, 77, 77);
+    border-spacing: 1 px;  
+    background-color:#008080;
+    padding: 10px;
+    
+      
+  }
+  td:first-child{
+    width: 300px;
+  }
+  th:first-child{
+    width: 300px;
+  }
+  img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+  a{
+    text-decoration:none ; 
+  }
